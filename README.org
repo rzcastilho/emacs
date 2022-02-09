@@ -2,11 +2,9 @@
 #+author: Rodrigo Zampieri Castilho
 #+date: 2022-02-09
 
-* Emacs Setup
+* Personal Emacs Configuration
 
-** Personal Emacs Configuration
-
-*** Packages
+** Packages
 
 - all-the-icons
 - command-log-mode
