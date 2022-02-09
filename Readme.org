@@ -1,0 +1,48 @@
+#+title: Emacs Setup
+#+author: Rodrigo Zampieri Castilho
+#+date: 2022-02-09
+
+* Emacs Setup
+
+** Personal Emacs Configuration
+
+*** Packages
+
+- all-the-icons
+- command-log-mode
+- company
+- company-box
+- counsel
+- counsel-projectile
+- dap-mode
+- docker
+- docker-compose-mode
+- doom-modeline
+- doom-themes
+- elixir-mode
+- evil
+- evil-collection
+- forge
+- general
+- helpful
+- hide-mode-line
+- hydra
+- ivy
+- ivy-prescient
+- ivy-rich
+- lsp-ivy)
+- lsp-mode
+- lsp-treemacs
+- lsp-ui
+- magit
+- no-littering
+- org
+- org-bullets
+- org-tree-slide
+- projectile
+- terraform-mode
+- typescript-mode
+- visual-fill-column
+- which-key
+- yasnippet
+- yasnippet-snippets
